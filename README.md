@@ -1,9 +1,6 @@
-This was the second project of the first sprint on the Technigo Frontend Bootcamp, which was focused on HTML and CSS.
-
-
 ## 1. What is this?
 
-The purpose of this assignment was to learn how to structure and layout webpages using boxmodel and flexbox, but also to create a responsive webpage for mobile, desktop and tablet.
+The purpose of this project was to learn how to structure and layout webpages using boxmodel and flexbox, but also to create a responsive webpage for mobile, desktop and tablet.
 These were the requirements for the project:
 * The site should contain a header with a name of the site, a logo and a navbar.
 * This should change depending on if you visit the site from a mobile, tablet or desktop.
